@@ -1,4 +1,4 @@
-# Android project: Househole Chore Manager
+# Android project: Household Chore Manager
 This chores management Android application has main functions include add or delete task, add equipments for tasks and check tasks on calendar. It is a school project for SEG2105(Intro to Software Engineering), and it is contributed by a group of five students: @sophialuanfx @ZhiweiLai @FinnZhong @841147593 @IreneZhou0129 :sparkles:
 
 ## Prerequisites
